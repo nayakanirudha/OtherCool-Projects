@@ -1,0 +1,3 @@
+Health Insurance Cross Sell Prediction  :https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv
+House Prices : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Diabetes : https://www.kaggle.com/uciml/pima-indians-diabetes-database
